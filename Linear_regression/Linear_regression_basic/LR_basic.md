@@ -1,3 +1,3 @@
 # Math
 
-$\bar{y} =A  x^{T} 
+$\bar{y} =A  x^{T}$ 
